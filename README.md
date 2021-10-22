@@ -11,7 +11,7 @@
 Projects:
 
 
-  S.T.A.L.K.E.R.: Modlists:
+  `S.T.A.L.K.E.R.: Modlists:`
 
 - [ ] S.T.A.L.K.E.R.: Shadow of Chernobyl Modlist
 - [ ] S.T.A.L.K.E.R.: Clear Sky Modlist
@@ -20,14 +20,14 @@ Projects:
 - [x] S.T.A.L.K.E.R.: Anomaly Modlist
 
 
-  The Elder Scrolls Modlists:
+  `The Elder Scrolls Modlists:`
 
 - [ ] The Elder Scrolls III: Morrowind
 - [ ] The Elder Scrolls IV: Oblivion
 - [ ] The Elder Scrolls V: Skyrim SE
 
 
-  Fallout Modlists:
+  `Fallout Modlists:`
 
 - [ ] Fallout
 - [ ] Fallout 2
