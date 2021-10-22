@@ -22,7 +22,7 @@ Projects:
 
   **The Elder Scrolls Modlists:**
 
-- [ ] The Elder Scrolls III: Morrowind
+- [x] [The Elder Scrolls III: Morrowind](https://biblioklept.github.io/2021/morrowind-essentials)
 - [ ] The Elder Scrolls IV: Oblivion
 - [ ] The Elder Scrolls V: Skyrim SE
 
