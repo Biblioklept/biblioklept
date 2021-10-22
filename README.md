@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on S.T.A.L.K.E.R. modlists.
 - 🤔 I’m looking for help with original ideas.
 - 💬 Ask me about how to mod video games.
-- 📫 How to reach me: [Telegram](t.me/biblioklept), [Twitter](twitter.com/bookstealing)
+- 📫 How to reach me: [Telegram](https://t.me/biblioklept), [Twitter](https://twitter.com/bookstealing)
 - 😄 Pronouns: all
 
 Projects:
@@ -16,8 +16,8 @@ Projects:
 - [ ] S.T.A.L.K.E.R.: Shadow of Chernobyl Modlist
 - [ ] S.T.A.L.K.E.R.: Clear Sky Modlist
 - [ ] S.T.A.L.K.E.R.: Call of Pripyat Modlist
-- [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](biblioklept.github.io/2021/call-of-the-old-zone)
-- [x] [S.T.A.L.K.E.R.: Anomaly Modlist](biblioklept.github.io/2021/tough-anomaly)
+- [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/2021/call-of-the-old-zone)
+- [x] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/2021/tough-anomaly)
 
 
   **The Elder Scrolls Modlists:**
