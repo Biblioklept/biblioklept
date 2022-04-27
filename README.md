@@ -17,7 +17,7 @@ Projects:
 - [ ] S.T.A.L.K.E.R.: Clear Sky Modlist
 - [ ] S.T.A.L.K.E.R.: Call of Pripyat Modlist
 - [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/2021/call-of-the-old-zone)
-- [x] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/2021/tough-anomaly)
+- [x] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/2022/JOURNEY)
 
 
   **The Elder Scrolls Modlists:**
