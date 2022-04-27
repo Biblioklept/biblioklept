@@ -2,9 +2,8 @@
 
 **Biblioklept**
 
-- 🔭 I’m currently working on S.T.A.L.K.E.R. modlists.
-- 🤔 I’m looking for help with original ideas.
-- 💬 Ask me about how to mod video games.
+- 🔭 I’m currently working on 3D animation.
+- 🤔 I’m looking for help with models.
 - 📫 How to reach me: [Telegram](https://t.me/biblioklept), [Twitter](https://twitter.com/bookstealing)
 - 😄 Pronouns: all
 
