@@ -3,7 +3,7 @@
 **Biblioklept**
 
 - 🔭 I’m currently working on 3D animation.
-- 🤔 I’m looking for help with models.
+- 🤔 I’m looking for help with said 3D animation.
 - 📫 How to reach me: [Telegram](https://t.me/biblioklept), [Twitter](https://twitter.com/bookstealing)
 - 😄 Pronouns: all
 
@@ -15,26 +15,8 @@ YouTube Stuff:
 Projects:
 
 
-  **S.T.A.L.K.E.R.: Modlists:**
+  **My Modlists:**
 
-- [ ] S.T.A.L.K.E.R.: Shadow of Chernobyl Modlist
-- [ ] S.T.A.L.K.E.R.: Clear Sky Modlist
-- [ ] S.T.A.L.K.E.R.: Call of Pripyat Modlist
 - [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/2021/call-of-the-old-zone)
-- [x] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/2022/JOURNEY)
-
-
-  **The Elder Scrolls Modlists:**
-
-- [x] [The Elder Scrolls III: Morrowind](https://biblioklept.github.io/2021/morrowind-essentials)
-- [ ] The Elder Scrolls IV: Oblivion
-- [ ] The Elder Scrolls V: Skyrim SE
-
-
-  **Fallout Modlists:**
-
-- [ ] Fallout
-- [ ] Fallout 2
-- [ ] Fallout 3
-- [ ] Fallout: New Vegas
-- [ ] Fallout 4
+- [x] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/JOURNEY)
+- [ ] [SPT-AKI]()
