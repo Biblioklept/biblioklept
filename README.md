@@ -19,4 +19,5 @@ Projects:
 
 - [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/2021/call-of-the-old-zone)
 - [x] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/JOURNEY)
+- [ ] [Tale of Two Wastelands Modlist](https://biblioklept.github.io/lowercasettw)
 - [ ] [SPT-AKI](https://raw.githubusercontent.com/Biblioklept/biblioklept/main/img/soon.png)
