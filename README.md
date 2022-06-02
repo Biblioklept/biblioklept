@@ -7,8 +7,6 @@
 - 📫 How to reach me: [Telegram](https://t.me/biblioklept), [Twitter](https://twitter.com/bookstealing)
 - 😄 Pronouns: all
 
-Projects:
-
   **My Modlists:**
 
 - [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/cotoz)
