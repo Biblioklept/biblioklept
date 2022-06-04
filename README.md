@@ -10,6 +10,5 @@
   **My Modlists:**
 
 - [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/cotoz)
-- [x] [Tale of Two Wastelands Modlist](https://biblioklept.github.io/lowercasettw)
 - [ ] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/JOURNEY)
 - [ ] [SPT-AKI](https://raw.githubusercontent.com/Biblioklept/biblioklept/main/img/soon.png)
