@@ -9,6 +9,8 @@
 
   **My Modlists:**
 
-- [x] [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/CoTOZ)
-- [x] [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/JOURNEY)
-- [ ] [SPT-AKI](https://raw.githubusercontent.com/Biblioklept/biblioklept/main/img/soon.png)
+- [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/CoTOZ)
+- [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/JOURNEY)
+- [~~RadAway~~](https://github.com/biblioklept/radaway) - dead due to HyperEssentials
+- [~~What In Oblivion~~](https://github.com/biblioklept/what-in-oblivion) - dead due to HyperEssentials
+- [HyperEssentials Collection](https://github.com/biblioklept/hyperessentials)
