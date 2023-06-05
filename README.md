@@ -10,7 +10,5 @@
   **My Modlists:**
 
 - [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/CoTOZ)
-- [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/JOURNEY)
-- [~~RadAway~~](https://github.com/biblioklept/radaway) - dead due to HyperEssentials
-- [~~What In Oblivion~~](https://github.com/biblioklept/what-in-oblivion) - dead due to HyperEssentials
+- [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/modlists/journey/)
 - [HyperEssentials Collection](https://github.com/biblioklept/hyperessentials)
