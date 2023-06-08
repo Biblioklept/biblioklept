@@ -2,7 +2,9 @@
 
 **Biblioklept**
 
-EVERYTHING IS POSTPONED UNTIL WINDOWS STOPS BEING A SHITTY OS 👍
+EVERYTHING IS POSTPONED UNTIL WINDOWS STOPS BEING A SHITTY OS 👍"
+
+(or I find a way to make my mod setup work on linux, MO2, Wabbajack, etc.)
 
 - 🔭 I’m currently working on 3D animation.
 - 🤔 I’m looking for help with said 3D animation.
