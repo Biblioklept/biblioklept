@@ -12,3 +12,4 @@
 - [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/CoTOZ)
 - [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/modlists/journey/)
 - [HyperEssentials Collection](https://github.com/biblioklept/hyperessentials)
+- [Dusty Sands](https://github.com/biblioklept/dusty-sands)
