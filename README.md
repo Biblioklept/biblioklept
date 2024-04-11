@@ -10,4 +10,4 @@
 
 - [S.T.A.L.K.E.R.: Call of The Zone Modlist](https://biblioklept.github.io/modlists/cotoz)
 - [S.T.A.L.K.E.R.: Anomaly Modlist](https://biblioklept.github.io/modlists/journey/)
-- [Dusty Sands](https://github.com/biblioklept/dusty-sands)
+- [S.T.A.L.K.E.R.: Old World Addon Modlist](https://biblioklept.github.io/modlists/old-world-addon-plus/)
